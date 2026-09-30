@@ -1,6 +1,6 @@
 # Filippo Lamanna
 
-I work in operations at a travel-tech startup in Milan and build the things that run it: AI agents, Slack bots and browser extensions, plus the odd app of my own.
+I work in operations and product in Milan, and I build the tools that take manual work out of it: AI agents, bots, low-code apps and automations, plus the odd app of my own.
 
 **→ [filippolamanna.github.io](https://filippolamanna.github.io)** · case studies: the problem, what I built, and what it changed.
 
