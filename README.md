@@ -15,4 +15,4 @@ I work in operations at a travel-tech startup in Milan and build the things that
 
 The work projects live in private repositories; the case studies cover the architecture and the outcomes.
 
-Open to roles in operations, founder's associate, AI automation and product · [LinkedIn](https://www.linkedin.com/in/filolamanna) · [Open a case](https://filippolamanna.github.io/#contact)
+Open to startup, ops, AI automation and product management roles · [LinkedIn](https://www.linkedin.com/in/filolamanna) · [Open a case](https://filippolamanna.github.io/#contact)
