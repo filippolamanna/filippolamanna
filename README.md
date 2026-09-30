@@ -12,6 +12,7 @@ I work in operations at a travel-tech startup in Milan and build the things that
 | #004 | [Cadence](https://filippolamanna.github.io/work/cadence/) | Running music that reacts to your body · iPhone + Apple Watch, under wraps |
 | #005 | [Cirulla](https://filippolamanna.github.io/work/cirulla/) | The Ligurian card game for iPhone, with the rules as they're really played |
 | #006 | [Run Form Tracker](https://filippolamanna.github.io/work/run-form-tracker/) | Two leg-worn sensor pods that measure left/right running symmetry · in progress |
+| #007 | [Inventory Counting App](https://filippolamanna.github.io/work/inventory-counting-app/) | Low-code app that guided weekly stock counts and kept waste under 1% of COGS |
 
 The work projects live in private repositories; the case studies cover the architecture and the outcomes.
 
