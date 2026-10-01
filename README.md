@@ -13,7 +13,7 @@ I work in operations and product in Milan, and I build the tools that take manua
 | #005 | [Cirulla](https://filippolamanna.github.io/work/cirulla/) | The Ligurian card game for iPhone, with the rules as they're really played |
 | #006 | [Run Form Tracker](https://filippolamanna.github.io/work/run-form-tracker/) | Two leg-worn sensor pods that measure left/right running symmetry · in progress |
 | #007 | [Inventory Counting App](https://filippolamanna.github.io/work/inventory-counting-app/) | Low-code app that guided weekly stock counts and kept waste under 1% of COGS |
-| #008 | [Incident Classification System](https://filippolamanna.github.io/work/incident-classification-system/) | Incident tickets 90% auto-filled from warehouse data and sent through the API with one click |
+| #008 | [Ticketinator](https://filippolamanna.github.io/work/ticketinator/) | Incident tickets 90% auto-filled from warehouse data and sent through the API with one click |
 
 The work projects live in private repositories; the case studies cover the architecture and the outcomes.
 
