@@ -9,11 +9,11 @@ I work in operations and product in Milan, and I build the tools that take manua
 | #001 | [Hound](https://filippolamanna.github.io/work/hound/) | LLM agent that chases stuck cases in live chat until a rep commits in writing |
 | #002 | [Magpie](https://filippolamanna.github.io/work/magpie/) | Chrome extension that fills vendor forms in one click, so agents stop retyping bookings |
 | #003 | [Orb](https://filippolamanna.github.io/work/orb/) | Slack bot that answers support agents' routine checks in the thread |
-| #004 | [Cadence](https://filippolamanna.github.io/work/cadence/) | Running music that reacts to your body · iPhone + Apple Watch, under wraps |
-| #005 | [Cirulla](https://filippolamanna.github.io/work/cirulla/) | The Ligurian card game for iPhone, with the rules as they're really played |
-| #006 | [Run Form Tracker](https://filippolamanna.github.io/work/run-form-tracker/) | Two leg-worn sensor pods that measure left/right running symmetry · in progress |
-| #007 | [Inventory Counting App](https://filippolamanna.github.io/work/inventory-counting-app/) | Low-code app that guided weekly stock counts and kept waste under 1% of COGS |
-| #008 | [Ticketinator](https://filippolamanna.github.io/work/ticketinator/) | Incident tickets 90% auto-filled from warehouse data and sent through the API with one click |
+| #004 | [Ticketinator](https://filippolamanna.github.io/work/ticketinator/) | Incident tickets 90% auto-filled from warehouse data and sent through the API with one click |
+| #005 | [Inventory Counting App](https://filippolamanna.github.io/work/inventory-counting-app/) | Low-code app that guided weekly stock counts and kept waste under 1% of COGS |
+| #006 | [Cadence](https://filippolamanna.github.io/work/cadence/) | Running music that reacts to your body · iPhone + Apple Watch, under wraps |
+| #007 | [Cirulla](https://filippolamanna.github.io/work/cirulla/) | The Ligurian card game for iPhone, with the rules as they're really played |
+| #008 | [Run Form Tracker](https://filippolamanna.github.io/work/run-form-tracker/) | Two leg-worn sensor pods that measure left/right running symmetry · in progress |
 
 The work projects live in private repositories; the case studies cover the architecture and the outcomes.
 
